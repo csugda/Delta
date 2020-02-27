@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Bottom Room Layer
+    uniqueID: 3258500539
+    locked: 0
+  - name: Wall Layer
+    uniqueID: 1424066393
+    locked: 0
+  - name: Top Room Layer
+    uniqueID: 1382249819
+    locked: 0
